@@ -1,4 +1,4 @@
-UU### About Me 🚀
+### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering. </br>
 ⛵ Open Source enthusiast | Contributor at [Kubernetes](https://github.com/kubernetes) and [CNCF](https://github.com/cncf)</br>
 ✅ Approver and Reviewer for Eat, sleep, hack Docs and CNCF Cyber Goblok Glossary</br>
@@ -40,3 +40,5 @@ Python   25 mins         ██████████████████�
 
 
 <!--..-->
+
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brianfredo&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph
