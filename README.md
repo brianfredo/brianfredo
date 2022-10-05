@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @brianfredo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
+- <!-- Updating my readme for GitHub-->
+- 
+- https://camo.githubusercontent.com/9cc9506d37c9bb8fe6c0e0fbb601bffa303380d3ab6299c1315ad91343c1c2e7/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d4532324645342677696474683d333830266865696768743d3435266c696e65733d4f70656e2d536f757263652b456e74687573696173743b4c6561726e696e672b496e2b5075626c69633b456d706f776572696e672b4f74686572733b4e6963652b546f2b4d6565742b596f752b2e2e2e2663656e7465723d74727565
+- 
 
 <!---
 brianfredo/brianfredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
